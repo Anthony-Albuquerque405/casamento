@@ -109,7 +109,7 @@ section.img {
 
 section#foto-padrinhos {
   background-image: url("imagens/imagem10.png");
-  background-size: contain;
+  background-size: cover;
   background-position: top bottom;
   background-attachment: fixed;
 }
