@@ -23,7 +23,7 @@
 }
 
 body {
-  background: black url("../imagens/imagem9.webp") repeat left top;
+  background: black url("imagens/imagem9.webp") repeat left top;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -99,14 +99,14 @@ section > p {
 }
 
 section.img {
-  background-image: url("../imagens/imagem9.webp");
+  background-image: url("imagens/imagem9.webp");
   background-size: cover;
   background-position: top center;
   background-attachment: fixed;
 }
 
 section#foto-padrinhos {
-  background-image: url("/imagens/imagem10.png");
+  background-image: url("imagens/imagem10.png");
   background-size: contain;
   background-position: top bottom;
   background-attachment: fixed;
@@ -135,7 +135,7 @@ div {
 }
 
 .content {
-  background-image: url("../imagens/imagem9.webp");
+  background-image: url("imagens/imagem9.webp");
   border: 10px solid var(--accent-color);
   width: 100%;
   text-align: center;
